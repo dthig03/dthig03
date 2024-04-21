@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Darren and I'm a new software developer.
-I'm currently enrolled in a coding boot camp where I'm learning Java, SQL, HTML, CSS, and JavaScript.
-I'm excited to see what I will learn and how much I'll improve.
-I've always wanted to work with computers so becoming a good software developer would be a dream come true!
-Hopefully, I can make some cool stuff!
+I recently graduated from a coding boot camp where I learned Java, PostgreSQL, HTML, CSS, JavaScript, and Vue.js. 
+I'm currently looking for my first development role, and I hope I can make some cool projects to help build up a portfolio.
+I've already learned so much throughout my boot camp and I'm looking forward to learning so much more!
+I'm excited to see where these new skills I've acquired will lead me and what projects I'll get to work on in the future!
